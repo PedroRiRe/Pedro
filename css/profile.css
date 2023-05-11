@@ -53,7 +53,7 @@
     width: 100%;
     left: 0;
     bottom: 0;
-    background-color: var(--secondary-color);
+    background-color: var(--navbar-shadow-color);
     height: 15px;
 }
 
